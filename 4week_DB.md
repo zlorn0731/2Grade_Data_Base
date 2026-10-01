@@ -471,6 +471,7 @@ Application1  Application2  Application3
 [고객 릴레이션]
 
       ↓ 고객 릴레이션의 기본키
+
 | _고객아이디_ | 고객이름 | 나이  |  등급  |  직업  | 적립금 |
 |    apple    |  김현준  |  20  |  gold  |  학생  |  1000  |
 |    banana   |  정소화  |  25  |   vip  | 간호사 |  2500  |
@@ -498,3 +499,5 @@ Application1  Application2  Application3
     - 수정 O
     - 검색 X
    
+##### ✍️작성자: 박지안
+##### 🗓️ 작업일: 2026-10-01
